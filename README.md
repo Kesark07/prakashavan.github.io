@@ -3,10 +3,11 @@
 
 ### Hello, I'm Kesar👋
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+working with technology and solving problems to make things better:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
+- **Project 1**:
+- City name: prakashavan
 - **Project 2**: A short description of another project.
 
 ## 🚀 Skills
