@@ -8,6 +8,15 @@ working with technology and solving problems to make things better:
 ## 🛠️ Projects
 - **Project 1**:
 - City name: prakashavan
+- <!DOCTYPE html>
+<html>
+    <head>
+        <title> city design </title>
+    </head>
+    <body>
+        prakashavan 
+    </body>
+</html>
 - **Project 2**: A short description of another project.
 
 ## 🚀 Skills
