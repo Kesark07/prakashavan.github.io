@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <HTML>
     <head>
         <title> city design</title>
